@@ -1,4 +1,4 @@
-<h3 align="center">Astrophysics Master's Student | Pulsar Researcher</h3>
+<h3 align="center">Master's in Astrophysics | University of Bonn</h3>
 
 🔭 I’m currently working on **Characterizing Pulsar Emission Widths** for my Master's Thesis at **Max Planck Institute for Radio Astronomy (MPIfR), Bonn**  
 📡 Passionate about **radio astronomy, pulsars, and data analysis**  
