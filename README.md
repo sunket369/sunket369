@@ -1,15 +1,15 @@
-<h3 align="center">Master's in Astrophysics | University of Bonn</h3>
+<h3 align="center">Master's in Astrophysics | University of Bonn | Max Planck Institute for Radio Astronomy </h3>
+
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Universit%C3%A4t_Bonn.svg/276px-Universit%C3%A4t_Bonn.svg.png" alt="University of Bonn" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://deki.mpifr-bonn.mpg.de/@api/deki/files/2498/=mpifrlogompg4a.jpg?size=webview" alt="MPIfR Bonn" width="56"/>
+</p>
 
 🔭 I’m currently working on **Characterizing Pulsar Emission Widths** for my Master's Thesis at **Max Planck Institute for Radio Astronomy (MPIfR), Bonn**  
 📡 Passionate about **radio astronomy, pulsars, and data analysis**  
 🚀 Exploring the universe, one pulse at a time  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sanket_bangar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanket bangar" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/sanket-bangar](https://www.linkedin.com/in/sanket-bangar-a9a7821bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDtefg1zmR1WIetsfJMelYg%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket bangar" height="30" width="40" /></a>
-<a href="https://instagram.com/sanket.bangar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanket.bangar" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -26,5 +26,12 @@
 
 📊 **Data Science & Analysis**  
 🛰️ **Working with Effelsberg 100m Telescope & TPA data**  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sanket_bangar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanket bangar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanket-bangar-a9a7821bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket bangar" height="30" width="40" /></a>
+<a href="https://instagram.com/sanket.bangar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanket.bangar" height="30" width="40" /></a>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunket369&show_icons=true&locale=en&layout=compact" alt="sunket369" /></p>
