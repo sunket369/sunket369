@@ -34,4 +34,3 @@
 <a href="https://instagram.com/sanket.bangar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanket.bangar" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunket369&show_icons=true&locale=en&layout=compact" alt="sunket369" /></p>
